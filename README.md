@@ -1,10 +1,10 @@
 # vagrant
 
 #### 1. Vagrant-vms
+[vagrantAndLinuxServers.zip](./vagrantAndLinuxServers.zip)
 
 #### 2. Vagrant IP, RAM & CPU
-
-
+[1.IpRamCpu.zip](./1.IpRamCpu.zip)
 #### 3. Vagrant Sync Directories
 
 
