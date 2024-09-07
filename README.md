@@ -1,10 +1,10 @@
 # vagrant
 
 #### 1. Vagrant-vms
-[vagrantAndLinuxServers.zip](./vagrantAndLinuxServers.zip)
+Download [vagrantAndLinuxServers.zip](./vagrantAndLinuxServers.zip)
 
 #### 2. Vagrant IP, RAM & CPU
-[1.IpRamCpu.zip](./1.IpRamCpu.zip)
+Download [1.IpRamCpu.zip](./1.IpRamCpu.zip)
 
 #### 3. Vagrant Sync Directories
 Download [2.SyncDirectories.zip](./2.SyncDirectories.zip)
